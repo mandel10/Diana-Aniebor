@@ -62,7 +62,7 @@ I build analytics projects inspired by real companies such as:
 ---
 
 ## 📬 Contact
-- Email: diana.aniebor101@gmail.com
+- Email: aniebor.diana101@gmail.com
 - LinkedIn: www.linkedin.com/in/diana-aniebor
 
 
